@@ -1,0 +1,20 @@
+Book My Show Planning
+1)We need a reusable Carousel
+    a)Hero Carousel 
+    b)Common Carousel
+    c)Cast and Crew Carousel
+
+2)Pages
+    a)Home Page
+    b)Movie Page
+    c)Categories Page
+    d)Auth Page
+    e)RazorPay Payment Gateway
+
+Procedure to build
+    1)Layouts
+    2)Routes
+    3)Pages
+    4)Components
+
+HOC(Higher-Order Components)
