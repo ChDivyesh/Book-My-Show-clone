@@ -1,13 +1,15 @@
-import React from "react";
-
-//components
-import Navbar from "../components/Navbar/navbar.component";
+import MovieHero from "../components/MovieHero/MovieHero.component";
 
 const MoviePage = () => {
     return (
-    <>
-    hello
-    </>
-    );
+          <>
+          
+          <div>
+        <img src="" />
+      </div>
+      <MovieHero />
+          </>
+        );
+    
 };
 export default MoviePage;
