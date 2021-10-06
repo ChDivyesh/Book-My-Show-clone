@@ -22,7 +22,7 @@ const MovieLayout = (props) => {
       setMovie(getMovieData.data);
     };
     requestMovie();
-  }, []);
+  }, [id]);
   
   return (
         <>
